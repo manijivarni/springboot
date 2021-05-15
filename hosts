@@ -1,0 +1,12 @@
+[ubuntu]
+172.31.29.22
+localshost
+
+[centos]
+172.31.30.238
+
+[appserver]
+172.31.29.22
+
+[dbserver]
+172.31.30.238
